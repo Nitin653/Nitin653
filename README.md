@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Nitin653
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning pyhton
+- 🌱 I’m currently learning java developer or web developer
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 For any query contact me :
+- Email :- ny725592@gmail.com
+- Linkedin profile :- https://www.linkedin.com/in/nitin-yadav-b4a431204/
 
 <!---
 Nitin653/Nitin653 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
