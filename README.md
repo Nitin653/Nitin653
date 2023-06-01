@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nitin653
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning java developer or web developer
+- 🌱 I’m currently learning java or web developing
 - 💞️ I’m looking to collaborate on ...
 - 📫 For any query contact me :
 - Email :- ny725592@gmail.com
