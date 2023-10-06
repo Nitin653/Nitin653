@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Nitin653
+- 👋 Hi, I’m Nitin Yadav
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning java or web developing
+- 🌱 I’m currently learning java full stack development
 - 💞️ I’m looking to collaborate on ...
 - 📫 For any query contact me :
 - Email :- ny725592@gmail.com
